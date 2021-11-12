@@ -1,0 +1,20 @@
+{
+    "name": "crud/phpcelke",
+    "description": "crud php site scroll",
+    "authors": [
+        {
+            "name": "ueslen cesar",
+            "email": "ueslencesar@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "App\\":"app",
+            "Core\\":"core"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
