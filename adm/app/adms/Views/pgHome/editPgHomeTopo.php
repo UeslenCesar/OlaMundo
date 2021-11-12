@@ -139,6 +139,7 @@ $('button').click(function(){
           </div>
           </form>
           </div>';}?>
+          
 
 <div id="novo_campo"></div>
 
@@ -146,7 +147,7 @@ $('button').click(function(){
 
 
 </div>
-
+<span>teste</span>
 
           <div class="ticket">
 <div class="barcode1">
